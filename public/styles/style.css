@@ -1,0 +1,33 @@
+body {
+  border: 2px solid black;
+  margin: 0;
+  background-color: bisque;
+  
+}
+header {
+  border: 2px solid black;
+font-size: 30px;
+}
+h1 {
+  border: 2px solid black;
+font-size: 80px;
+  text-align: center;
+  color: gray;
+  ;
+}
+.image {
+  border: 2px solid black;
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 20px 40px;
+}
+img {
+  height: 800px;
+  display: flex;
+  justify-content: center;
+}
+a {
+  color: black;
+ 
+}
